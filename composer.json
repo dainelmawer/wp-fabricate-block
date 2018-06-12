@@ -13,5 +13,5 @@
   }],
   "autoload": {
     "files": ["fabricate-block.php"]
-  },
+  }
 }
