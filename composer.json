@@ -1,0 +1,17 @@
+{
+  "name": "dainemawer/wp-fabricate-block",
+  "description": "Outputs a barebones Gutenberg Block thats Webpack & ES6 compatible",
+  "type": "wp-cli-package",
+  "homepage": "https://github.com/dainemawer/wp-fabricate-block",
+  "support": {
+    "issues": "https://github.com/dainemawer/wp-fabricate-block/issues"
+  },
+  "license": "MIT",
+  "authors": [{
+    "name": "Daine Mawer",
+    "email": "hello@dainemawer.com"
+  }],
+  "autoload": {
+    "files": ["fabricate-block.php"]
+  },
+}
